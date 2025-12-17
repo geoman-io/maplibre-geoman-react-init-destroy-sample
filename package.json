@@ -1,5 +1,5 @@
 {
-  "name": "inittester3",
+  "name": "maplibre-geoman-react-init-destroy-sample",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@geoman-io/maplibre-geoman-free": "https://gitpkg.vercel.app/geoman-io/maplibre-geoman?fix/destroy-reinit-cleanup",
+    "@geoman-io/maplibre-geoman-free": "^0.5.8",
     "@vis.gl/react-maplibre": "^8.0.4",
     "maplibre-gl": "^5.14.0",
     "react": "^19.2.0",
